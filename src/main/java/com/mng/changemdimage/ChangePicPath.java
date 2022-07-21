@@ -1,4 +1,4 @@
-package com.mng.matlabjar;
+package com.mng.changemdimage;
 
 import java.io.*;
 import java.util.ArrayList;
